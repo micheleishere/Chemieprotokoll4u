@@ -12,7 +12,7 @@ import streamlit as st
 
 
 # Seitenleiste-Kommentar erstellen
-st.sidebar.success("Tab 1")
+st.sidebar.success("Wähle ein Tab")
 
 
 
